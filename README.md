@@ -35,7 +35,7 @@
 
 ---
 
-**[ 기능 ]**
+# **[ 기능 ]**
 
 - login
     - **name, affiliation을 모두 적어야 tutorial로 넘어갈 수 있습니다.**
